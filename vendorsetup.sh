@@ -1,0 +1,2 @@
+add_lunch_combo coldfusion_shamu-user
+add_lunch_combo coldfusion_angler-user
